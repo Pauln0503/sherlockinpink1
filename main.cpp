@@ -12,6 +12,7 @@
 * ./main 2 này chạy phần input2
 * ./main 1 5 này sẽ chạy phần input1 -> input5
 * ./main hiện tại cũng chạy hết task 1 
+// lukaku số 1 
 */
 
 
